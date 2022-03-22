@@ -5,6 +5,7 @@ abcm2ps
 abook
 adios2
 advancemame
+aerc
 agda
 airspy
 algol68g
@@ -217,6 +218,7 @@ ghex
 ghostscript
 git
 gitg
+gjs
 gkrellm
 glade
 glib
