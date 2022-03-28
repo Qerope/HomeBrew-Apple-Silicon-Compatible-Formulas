@@ -199,6 +199,7 @@ fuse-emulator
 fwknop
 gambit-scheme
 gammu
+gatsby-cli
 gauche
 gawk
 gcab
@@ -828,6 +829,7 @@ xboard
 xfig
 xmrig
 xrick
+xsane
 xsw
 xterm
 yash
