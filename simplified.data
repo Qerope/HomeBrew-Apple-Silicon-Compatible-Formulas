@@ -649,6 +649,7 @@ python@3.9
 qalculate-gtk
 qdae
 qemu
+qmmp
 qrupdate
 qstat
 quickjs
