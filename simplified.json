@@ -650,6 +650,7 @@
     "qalculate-gtk",
     "qdae",
     "qemu",
+    "qmmp",
     "qrupdate",
     "qstat",
     "quickjs",
