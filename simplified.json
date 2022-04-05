@@ -385,6 +385,7 @@
     "libbitcoin-node",
     "libbitcoin-server",
     "libcapn",
+    "libchewing",
     "libcouchbase",
     "libcouchbase@2",
     "libdap",
