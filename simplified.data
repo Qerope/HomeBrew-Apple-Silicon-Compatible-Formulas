@@ -54,6 +54,7 @@ bibclean
 bind
 binutils
 bison@2.7
+bit
 bitchx
 bitlbee
 blast
@@ -755,6 +756,7 @@ swig@3
 sword
 sylpheed
 synfig
+sysdig
 sz81
 t1lib
 takt
