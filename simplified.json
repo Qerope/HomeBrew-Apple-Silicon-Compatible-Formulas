@@ -519,7 +519,6 @@
     "mysql@5.7",
     "nagios",
     "nano",
-    "nanomsg",
     "ncftp",
     "ncrack",
     "ncurses",
