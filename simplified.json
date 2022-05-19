@@ -213,6 +213,7 @@
     "gawk",
     "gcab",
     "gcc",
+    "gcc@12",
     "gdal",
     "gdcm",
     "gdk-pixbuf",
