@@ -3842,7 +3842,6 @@
     "pyside@2",
     "python-launcher",
     "python-markdown",
-    "python-tabulate",
     "python-tk@3.10",
     "python-tk@3.9",
     "python-yq",
