@@ -37,7 +37,7 @@ $fullarr = [];
 
 foreach($arr as $item){
 	$json = json_encode($item, JSON_PRETTY_PRINT);
-	$iscompatible = strpos($json,"\/opt\/homebrew\/") !== false;
+	$iscompatible = strpos($json,"\/opt\/homebrew\/") !== false || strpos($json,"arm64") !== false;
 	if($iscompatible){
 		$res = $res . $item["full_name"] . "\n";
 		array_push($resarr, $item["full_name"]);
