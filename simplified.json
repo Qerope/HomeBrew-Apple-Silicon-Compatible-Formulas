@@ -3631,6 +3631,7 @@
     "pgdbf",
     "pget",
     "pgformatter",
+    "pgloader",
     "pgpdump",
     "pgpool-ii",
     "pgroonga",
