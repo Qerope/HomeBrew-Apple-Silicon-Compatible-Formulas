@@ -1632,6 +1632,7 @@
     "gnuplot@4",
     "gnuradio",
     "gnuski",
+    "gnustep-base",
     "gnustep-make",
     "gnutls",
     "go",
