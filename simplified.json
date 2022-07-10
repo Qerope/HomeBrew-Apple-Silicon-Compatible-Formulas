@@ -3874,6 +3874,7 @@
     "pyqt@5",
     "pyside",
     "pyside@2",
+    "python-build",
     "python-launcher",
     "python-markdown",
     "python-tk@3.10",
