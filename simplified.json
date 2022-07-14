@@ -2857,6 +2857,7 @@
     "lua@5.1",
     "lua@5.3",
     "luabind",
+    "luajit",
     "luajit-openresty",
     "luaradio",
     "luarocks",
