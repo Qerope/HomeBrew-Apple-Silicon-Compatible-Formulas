@@ -3818,6 +3818,7 @@
     "proteinortho",
     "protobuf",
     "protobuf-c",
+    "protobuf@3",
     "protobuf@3.6",
     "protoc-gen-go",
     "protoc-gen-go-grpc",
