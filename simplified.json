@@ -3389,6 +3389,7 @@
     "ocaml-zarith",
     "ocamlbuild",
     "oci-cli",
+    "ocl-icd",
     "oclgrind",
     "ocp",
     "ocproxy",
