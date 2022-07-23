@@ -4573,6 +4573,7 @@
     "tarantool",
     "tarlz",
     "tarsnap",
+    "tarsnap-gui",
     "tarsnapper",
     "task",
     "task-spooler",
