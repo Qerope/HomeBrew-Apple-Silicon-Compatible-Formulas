@@ -1559,6 +1559,7 @@
     "git-standup",
     "git-subrepo",
     "git-svn",
+    "git-sync",
     "git-town",
     "git-tracker",
     "git-trim",
