@@ -2729,6 +2729,7 @@
     "libusrsctp",
     "libuv",
     "libuvc",
+    "libvatek",
     "libvdpau",
     "libvidstab",
     "libvirt",
