@@ -3681,7 +3681,6 @@
     "petsc",
     "petsc-complex",
     "pev",
-    "pex",
     "pfetch",
     "pg_cron",
     "pg_partman",
