@@ -782,6 +782,7 @@
     "cpufetch",
     "cpulimit",
     "cql",
+    "cql-proxy",
     "cracklib",
     "crackpkcs",
     "crane",
