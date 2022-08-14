@@ -805,6 +805,7 @@
     "cryptominisat",
     "crystal",
     "crystal-icr",
+    "crytic-compile",
     "cscope",
     "csfml",
     "csmith",
