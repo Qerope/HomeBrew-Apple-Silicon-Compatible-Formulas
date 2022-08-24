@@ -2863,6 +2863,7 @@
     "logcli",
     "logrotate",
     "logstalgia",
+    "logstash",
     "logswan",
     "logtalk",
     "loki",
