@@ -2288,6 +2288,7 @@
     "kubernetes-service-catalog-client",
     "kubescape",
     "kubeseal",
+    "kubesess",
     "kubespy",
     "kubeval",
     "kubevela",
