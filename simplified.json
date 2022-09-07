@@ -2472,6 +2472,7 @@
     "libexosip",
     "libextractor",
     "libfabric",
+    "libfaketime",
     "libff",
     "libffcall",
     "libffi",
