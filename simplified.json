@@ -2549,6 +2549,7 @@
     "libkeccak",
     "libkml",
     "libksba",
+    "liblbfgs",
     "liblcf",
     "liblinear",
     "liblo",
