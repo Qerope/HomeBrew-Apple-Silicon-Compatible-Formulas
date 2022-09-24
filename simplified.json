@@ -5105,6 +5105,7 @@
     "wangle",
     "waon",
     "wapm",
+    "wasm-micro-runtime",
     "wasm-pack",
     "wasm-tools",
     "wasm3",
