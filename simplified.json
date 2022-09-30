@@ -220,6 +220,7 @@
     "autoconf-archive",
     "autoconf@2.13",
     "autoconf@2.69",
+    "autocorrect",
     "autodiff",
     "autogen",
     "automake",
