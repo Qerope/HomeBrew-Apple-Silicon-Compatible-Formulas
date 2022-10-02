@@ -4047,6 +4047,7 @@
     "qt@5",
     "qtads",
     "qtfaststart",
+    "qthreads",
     "qtkeychain",
     "quantlib",
     "quasi88",
