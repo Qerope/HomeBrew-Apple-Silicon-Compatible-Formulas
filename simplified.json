@@ -4276,6 +4276,7 @@
     "salt",
     "salt-lint",
     "samba",
+    "sambamba",
     "saml2aws",
     "sampler",
     "samtools",
